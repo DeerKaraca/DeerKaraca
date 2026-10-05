@@ -7,7 +7,6 @@
   &nbsp;
   <a href="https://www.linkedin.com/in/fatma-e-32201a378"><img src="btn-linkedin.svg" height="40" alt="LinkedIn"></a>
   <br>
-  <sub>fatmakaracaerdogan@gmail.com</sub>
 </p>
 
 <p align="center">
